@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  day_of_week: MyString
+  meal: MyString
+  time: MyString
+  location: MyString
+
+two:
+  day_of_week: MyString
+  meal: MyString
+  time: MyString
+  location: MyString

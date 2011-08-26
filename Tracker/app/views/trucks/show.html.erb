@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Truck name:</b>
+  <%= @truck.truck_name %>
+</p>
+
+<p>
+  <b>Owner:</b>
+  <%= @truck.owner %>
+</p>
+
+<p>
+  <b>Cuisine:</b>
+  <%= @truck.cuisine %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @truck.url %>
+</p>
+
+<p>
+  <b>Twitter:</b>
+  <%= @truck.twitter %>
+</p>
+
+
+<%= link_to 'Edit', edit_truck_path(@truck) %> |
+<%= link_to 'Back', trucks_path %>

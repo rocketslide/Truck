@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  truck_name: MyString
+  owner: MyString
+  cuisine: MyString
+  url: MyString
+  twitter: MyString
+
+two:
+  truck_name: MyString
+  owner: MyString
+  cuisine: MyString
+  url: MyString
+  twitter: MyString
